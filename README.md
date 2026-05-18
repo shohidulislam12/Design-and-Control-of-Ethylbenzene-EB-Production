@@ -141,35 +141,8 @@ C_8H_{10} + C_2H_4 \rightarrow C_{10}H_{14}
 
 # 🧩 Flowsheet
 
-```text
-Fresh Benzene ──► Mixer_1 ──► Pump ──┐
-                                     │
-Recycle Benzene ◄────────────────────┘
-                                     ▼
-Fresh Ethylene ─► Compressor ─► Heater
-                                     ▼
-                                Mixer_2
-                                     ▼
-                                Reactor_1
-                                     ▼
-                                  Valve
-                                     ▼
-                                Reactor_2
-                                     ▼
-                             Distillation Column
-                                     ▼
-                           Flash Separation Unit
-                           ├──► Ethylbenzene Product
-                           └──► Heavy By-products
-```
-
-> Replace with actual process image:
-
-```markdown
-![Flowsheet](flowsheet.png)
-```
-
----
+[
+---](https://raw.githubusercontent.com/shohidulislam12/Design-and-Control-of-Ethylbenzene-EB-Production/174e28314a92bb25220bb2f200bb482d8e9a8121/Screenshot%202026-05-18%20152217.png)
 
 # 🛠 Unit Operations
 
