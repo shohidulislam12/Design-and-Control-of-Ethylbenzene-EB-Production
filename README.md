@@ -142,7 +142,7 @@ C_8H_{10} + C_2H_4 \rightarrow C_{10}H_{14}
 # 🧩 Flowsheet
 
 [
----](https://raw.githubusercontent.com/shohidulislam12/Design-and-Control-of-Ethylbenzene-EB-Production/174e28314a92bb25220bb2f200bb482d8e9a8121/Screenshot%202026-05-18%20152217.png)
+to see process flow sheet and stem output click here ](https://raw.githubusercontent.com/shohidulislam12/Design-and-Control-of-Ethylbenzene-EB-Production/174e28314a92bb25220bb2f200bb482d8e9a8121/Screenshot%202026-05-18%20152217.png)
 
 # 🛠 Unit Operations
 
